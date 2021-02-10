@@ -1,1 +1,1 @@
-# Rinho-js-SHA-256
+# Rhino-js SHA-256
